@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "categories": [
+    {
+      "name": "Morning",
+      "icon": "sunrise.fill",
+      "suggestions": [
+        { "label": "Hotel breakfast", "duration": 45 },
+        { "label": "Coffee and pastries", "duration": 30 },
+        { "label": "Morning walk", "duration": 60 },
+        { "label": "Local market visit", "duration": 75 },
+        { "label": "Sunrise viewpoint", "duration": 60 }
+      ]
+    },
+    {
+      "name": "Sights",
+      "icon": "building.columns.fill",
+      "suggestions": [
+        { "label": "Museum visit", "duration": 120 },
+        { "label": "Old town walking tour", "duration": 90 },
+        { "label": "Landmark photo stop", "duration": 30 },
+        { "label": "Cathedral or temple", "duration": 60 },
+        { "label": "Scenic overlook", "duration": 45 },
+        { "label": "Botanical garden", "duration": 90 }
+      ]
+    },
+    {
+      "name": "Food",
+      "icon": "fork.knife",
+      "suggestions": [
+        { "label": "Lunch", "duration": 60 },
+        { "label": "Street food tasting", "duration": 45 },
+        { "label": "Dinner reservation", "duration": 90 },
+        { "label": "Dessert stop", "duration": 30 },
+        { "label": "Local cafe break", "duration": 30 }
+      ]
+    },
+    {
+      "name": "Outdoors",
+      "icon": "leaf.fill",
+      "suggestions": [
+        { "label": "Park stroll", "duration": 60 },
+        { "label": "Beach time", "duration": 120 },
+        { "label": "Easy hike", "duration": 150 },
+        { "label": "Bike ride", "duration": 90 },
+        { "label": "Boat tour", "duration": 90 }
+      ]
+    },
+    {
+      "name": "Evening",
+      "icon": "moon.stars.fill",
+      "suggestions": [
+        { "label": "Sunset spot", "duration": 45 },
+        { "label": "Live music", "duration": 90 },
+        { "label": "Night walk", "duration": 45 },
+        { "label": "Rooftop drinks", "duration": 60 },
+        { "label": "Rest at hotel", "duration": 60 }
+      ]
+    },
+    {
+      "name": "Logistics",
+      "icon": "airplane",
+      "suggestions": [
+        { "label": "Check in to hotel", "duration": 30 },
+        { "label": "Airport transfer", "duration": 60 },
+        { "label": "Train to next city", "duration": 120 },
+        { "label": "Pack and check out", "duration": 30 },
+        { "label": "Rest break", "duration": 30 }
+      ]
+    }
+  ]
+}

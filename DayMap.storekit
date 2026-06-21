@@ -1,0 +1,40 @@
+{
+  "appPolicies" : {
+    "eula" : "",
+    "policies" : [
+      {
+        "locale" : "en_US",
+        "policyText" : "",
+        "policyURL" : ""
+      }
+    ]
+  },
+  "identifier" : "DAYMAP_STOREKIT_CONFIG",
+  "nonRenewingSubscriptions" : [],
+  "products" : [
+    {
+      "displayPrice" : "0.99",
+      "familyShareable" : true,
+      "internalID" : "daymap_pro_unlock_id",
+      "localizations" : [
+        {
+          "description" : "Unlock unlimited trips, automatic transit buffers, day and block notes, and itinerary export. One-time purchase.",
+          "displayName" : "DayMap Pro",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "daymap_pro_unlock",
+      "referenceName" : "DayMap Pro Unlock",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : {
+    "_failTransactionsEnabled" : false,
+    "_storeKitErrors" : []
+  },
+  "subscriptionGroups" : [],
+  "version" : {
+    "major" : 3,
+    "minor" : 0
+  }
+}
